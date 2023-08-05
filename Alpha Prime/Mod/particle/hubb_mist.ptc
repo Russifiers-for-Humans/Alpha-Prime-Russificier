@@ -1,0 +1,311 @@
+$EmitorDef          "heavy smoke"
+Shader              "particle/smoke/smoke1add"
+ShapeType           "1"
+ShapeSize           "64 64 0"
+KillShapeType       "0"
+KillShapeSize       "50 50 50"
+ConeAngle           "360 40 0"
+Velocity            "16"
+VelocityRND         "2"
+RotMultiplier       "10"
+SizeMultiplier      "120"
+StretchMultiplier   "1"
+RandomRotDir        "1"
+RandomAngle         "1"
+Collisions          "0"
+Lighting            "0"
+AirResistance       "0"
+AirResistanceRND    "0"
+GravityMultiply     "0"
+GravityMultiplyRND  "0"
+LOD                 "0"
+MaxNum              "100"
+KillOldest          "0"
+BirthRate           "5"
+BirthRateRND        "1"
+LifeTime            "7"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+AnimFPS             "0"
+TilesX              "0"
+TilesY              "0"
+PointSprites        "0"
+EffectTime          "10"
+Repeat              "1"
+Spring              "0"
+
+
+ColorR 4
+0.000000 0.557971
+0.218750 1.000000
+0.649306 0.094203
+1.000000 0.000000
+
+ColorG 4
+0.000000 0.731884
+0.218750 0.942029
+0.649306 1.000000
+1.000000 0.391304
+
+ColorB 4
+0.000000 1.000000
+0.218750 1.000000
+0.649306 0.528986
+1.000000 0.115942
+
+Alpha 4
+0.000000 0.000000
+0.562500 0.115942
+0.812500 0.246377
+1.000000 0.000000
+
+RotationSpeed 5
+0.000000 0.000000
+0.000000 0.000000
+0.052083 0.507353
+0.298611 0.985294
+1.000000 1.000000
+
+Size 3
+0.000000 0.000000
+0.187500 1.000000
+1.000000 0.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+BRateMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+
+$EmitorDef          "floor mist"
+Shader              "particle/smoke/smoke1add"
+ShapeType           "1"
+ShapeSize           "700 700 0"
+KillShapeType       "0"
+KillShapeSize       "50 50 50"
+ConeAngle           "360 40 0"
+Velocity            "1"
+VelocityRND         "2"
+RotMultiplier       "10"
+SizeMultiplier      "120"
+StretchMultiplier   "1"
+RandomRotDir        "1"
+RandomAngle         "1"
+Collisions          "0"
+Lighting            "0"
+AirResistance       "0"
+AirResistanceRND    "0"
+GravityMultiply     "0"
+GravityMultiplyRND  "0"
+LOD                 "0"
+MaxNum              "100"
+KillOldest          "0"
+BirthRate           "10"
+BirthRateRND        "1"
+LifeTime            "10"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+AnimFPS             "0"
+TilesX              "0"
+TilesY              "0"
+PointSprites        "0"
+EffectTime          "10"
+Repeat              "1"
+Spring              "0"
+
+
+ColorR 4
+0.000000 0.572464
+0.218750 1.000000
+0.843750 0.108696
+1.000000 0.000000
+
+ColorG 4
+0.000000 1.000000
+0.218750 0.942029
+0.843750 1.000000
+1.000000 0.391304
+
+ColorB 4
+0.000000 0.681159
+0.218750 1.000000
+0.843750 0.471014
+1.000000 0.152174
+
+Alpha 3
+0.000000 0.000000
+0.500000 0.500000
+1.000000 0.000000
+
+RotationSpeed 5
+0.000000 0.000000
+0.000000 0.000000
+0.052083 0.507353
+0.298611 0.985294
+1.000000 1.000000
+
+Size 3
+0.000000 0.000000
+0.437500 0.833333
+1.000000 1.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+BRateMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+
+$EmitorDef          "magic dotas"
+Shader              "particle/misc/dot"
+ShapeType           "1"
+ShapeSize           "512 512 512"
+KillShapeType       "0"
+KillShapeSize       "50 50 50"
+ConeAngle           "360 40 0"
+Velocity            "1"
+VelocityRND         "2"
+RotMultiplier       "10"
+SizeMultiplier      "2"
+StretchMultiplier   "1"
+RandomRotDir        "1"
+RandomAngle         "1"
+Collisions          "0"
+Lighting            "0"
+AirResistance       "0"
+AirResistanceRND    "0"
+GravityMultiply     "0"
+GravityMultiplyRND  "0"
+LOD                 "0"
+MaxNum              "1000"
+KillOldest          "0"
+BirthRate           "200"
+BirthRateRND        "1"
+LifeTime            "3"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+AnimFPS             "0"
+TilesX              "0"
+TilesY              "0"
+PointSprites        "1"
+EffectTime          "10"
+Repeat              "1"
+Spring              "0"
+
+
+ColorR 4
+0.000000 0.557971
+0.218750 1.000000
+0.812500 0.094203
+1.000000 0.000000
+
+ColorG 4
+0.000000 1.000000
+0.218750 0.942029
+0.812500 1.000000
+1.000000 0.630435
+
+ColorB 4
+0.000000 0.746377
+0.218750 1.000000
+0.812500 0.536232
+1.000000 0.173913
+
+Alpha 7
+0.000000 0.000000
+0.055556 1.000000
+0.201389 0.246377
+0.489583 0.000000
+0.548611 1.000000
+0.701389 0.231884
+1.000000 0.000000
+
+RotationSpeed 5
+0.000000 0.000000
+0.000000 0.000000
+0.052083 0.507353
+0.298611 0.985294
+1.000000 1.000000
+
+Size 3
+0.000000 0.000000
+0.437500 0.833333
+1.000000 1.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+BRateMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+

@@ -1,0 +1,331 @@
+$EmitorDef          "sparksrandom"
+Shader              "particle/misc/dot"
+ShapeType           "0"
+ShapeSize           "0 0 0"
+KillShapeType       "0"
+KillShapeSize       "0 0 0"
+ConeAngle           "360 10 0"
+Velocity            "70"
+VelocityRND         "10"
+RotMultiplier       "1"
+SizeMultiplier      "3"
+StretchMultiplier   "1"
+RandomRotDir        "0"
+RandomAngle         "0"
+AirResistance       "1.5"
+AirResistanceRND    "0"
+GravityMultiply     "1.2"
+GravityMultiplyRND  "0"
+MaxNum              "70"
+KillOldest          "0"
+BirthRate           "300"
+BirthRateRND        "10"
+LifeTime            "0.2"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+PointSprites        "1"
+EffectTime          "0.3"
+Repeat              "0"
+Fluid                         "0"
+RestParticlesPerMeter         "80"
+RestDensity                   "7000"
+KernelRadiusMultiplier        "2.4"
+MotionLimitMultiplier         "3"
+Stiffness                     "50"
+Viscosity                     "15"
+Damping                       "0.1"
+StaticCollisionRestitution    "0.01"
+StaticCollisionAdhesion       "0.6"
+DynamicCollisionRestitution   "0.01"
+DynamicCollisionAdhesion      "0.6"
+
+ColorR 2
+0.000000 0.213235
+1.000000 0.066176
+
+ColorG 2
+0.000000 0.000000
+1.000000 0.000000
+
+ColorB 2
+0.000000 0.000000
+1.000000 0.000000
+
+Alpha 3
+0.000000 1.000000
+0.586806 0.735294
+1.000000 0.000000
+
+RotationSpeed 4
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+0.000000 0.000000
+
+Size 4
+0.000000 1.000000
+1.000000 1.000000
+0.000000 0.000000
+0.000000 0.000000
+
+Stretch 4
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+0.000000 0.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+StretchMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+BRateMast 4
+0.000000 0.522059
+0.100694 1.000000
+0.489583 1.000000
+1.000000 0.000000
+
+
+$EmitorDef          "sparksrandomsmaller"
+Shader              "particle/misc/dotclamp"
+ShapeType           "2"
+ShapeSize           "5 0 0"
+KillShapeType       "0"
+KillShapeSize       "0 0 0"
+ConeAngle           "360 20 0"
+Velocity            "70"
+VelocityRND         "10"
+RotMultiplier       "1"
+SizeMultiplier      "2"
+StretchMultiplier   "1"
+RandomRotDir        "0"
+RandomAngle         "0"
+AirResistance       "1.5"
+AirResistanceRND    "0.5"
+GravityMultiply     "1.2"
+GravityMultiplyRND  "0"
+MaxNum              "50"
+KillOldest          "0"
+BirthRate           "150"
+BirthRateRND        "10"
+LifeTime            "0.4"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+PointSprites        "1"
+EffectTime          "0.3"
+Repeat              "0"
+Fluid                         "0"
+RestParticlesPerMeter         "80"
+RestDensity                   "7000"
+KernelRadiusMultiplier        "2.4"
+MotionLimitMultiplier         "3"
+Stiffness                     "50"
+Viscosity                     "15"
+Damping                       "0.1"
+StaticCollisionRestitution    "0.01"
+StaticCollisionAdhesion       "0.6"
+DynamicCollisionRestitution   "0.01"
+DynamicCollisionAdhesion      "0.6"
+
+ColorR 2
+0.000000 0.176471
+1.000000 0.044118
+
+ColorG 2
+0.000000 0.000000
+1.000000 0.000000
+
+ColorB 2
+0.000000 0.000000
+1.000000 0.000000
+
+Alpha 3
+0.000000 1.000000
+0.732639 0.816176
+1.000000 0.000000
+
+RotationSpeed 3
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+
+Size 3
+0.000000 1.000000
+1.000000 1.000000
+0.000000 0.000000
+
+Stretch 3
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+StretchMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+BRateMast 4
+0.000000 0.492647
+0.121528 1.000000
+0.482639 1.000000
+1.000000 0.000000
+
+
+$EmitorDef          "puff"
+Shader              "particle/water/stream1"
+ShapeType           "2"
+ShapeSize           "5 0 0"
+KillShapeType       "0"
+KillShapeSize       "0 0 0"
+ConeAngle           "360 35 0"
+Velocity            "70"
+VelocityRND         "10"
+RotMultiplier       "1"
+SizeMultiplier      "16"
+StretchMultiplier   "1"
+RandomRotDir        "0"
+RandomAngle         "0"
+AirResistance       "1.5"
+AirResistanceRND    "0.5"
+GravityMultiply     "1.2"
+GravityMultiplyRND  "0"
+MaxNum              "50"
+KillOldest          "0"
+BirthRate           "150"
+BirthRateRND        "10"
+LifeTime            "0.4"
+LifeTimeRND         "0"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+PointSprites        "1"
+EffectTime          "0.3"
+Repeat              "0"
+Fluid                         "0"
+RestParticlesPerMeter         "80"
+RestDensity                   "7000"
+KernelRadiusMultiplier        "2.4"
+MotionLimitMultiplier         "3"
+Stiffness                     "50"
+Viscosity                     "15"
+Damping                       "0.1"
+StaticCollisionRestitution    "0.01"
+StaticCollisionAdhesion       "0.6"
+DynamicCollisionRestitution   "0.01"
+DynamicCollisionAdhesion      "0.6"
+
+
+ColorR 2
+0.000000 0.191176
+1.000000 0.058824
+
+ColorG 2
+0.000000 0.000000
+1.000000 0.000000
+
+ColorB 2
+0.000000 0.000000
+1.000000 0.000000
+
+Alpha 3
+0.000000 1.000000
+0.732639 0.808824
+1.000000 0.000000
+
+RotationSpeed 3
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+
+Size 3
+0.000000 1.000000
+1.000000 1.000000
+0.000000 0.000000
+
+Stretch 3
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+StretchMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+BRateMast 4
+0.000000 0.492647
+0.121528 1.000000
+0.482639 1.000000
+1.000000 0.000000
+
+

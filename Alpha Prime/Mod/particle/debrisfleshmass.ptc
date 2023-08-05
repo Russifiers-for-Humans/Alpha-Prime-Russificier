@@ -1,0 +1,110 @@
+$EmitorDef          "sparksrandom"
+Shader              "particle/water/stream1"
+ShapeType           "2"
+ShapeSize           "10 0 0"
+KillShapeType       "0"
+KillShapeSize       "0 0 0"
+ConeAngle           "360 50 0"
+Velocity            "60"
+VelocityRND         "10"
+RotMultiplier       "1"
+SizeMultiplier      "16"
+StretchMultiplier   "1"
+RandomRotDir        "0"
+RandomAngle         "0"
+AirResistance       "0.5"
+AirResistanceRND    "0"
+GravityMultiply     "1"
+GravityMultiplyRND  "0.01"
+MaxNum              "50"
+KillOldest          "0"
+BirthRate           "150"
+BirthRateRND        "5"
+LifeTime            "0.6"
+LifeTimeRND         "0.2"
+LifetimeByAnim      "0"
+AnimOnce            "0"
+PointSprites        "1"
+EffectTime          "0.1"
+Repeat              "0"
+Fluid                         "0"
+RestParticlesPerMeter         "800"
+RestDensity                   "7000"
+KernelRadiusMultiplier        "2.4"
+MotionLimitMultiplier         "3"
+Stiffness                     "50"
+Viscosity                     "15"
+Damping                       "0.1"
+StaticCollisionRestitution    "0.01"
+StaticCollisionAdhesion       "0.6"
+DynamicCollisionRestitution   "0.01"
+DynamicCollisionAdhesion      "0.6"
+
+ColorR 2
+0.000000 0.161765
+1.000000 0.044118
+
+ColorG 2
+0.000000 0.000000
+1.000000 0.000000
+
+ColorB 2
+0.000000 0.000000
+1.000000 0.000000
+
+Alpha 3
+0.000000 1.000000
+0.854167 0.882353
+1.000000 0.000000
+
+RotationSpeed 4
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+0.000000 0.000000
+
+Size 4
+0.000000 1.000000
+1.000000 1.000000
+0.000000 0.000000
+0.000000 0.000000
+
+Stretch 4
+0.000000 0.000000
+1.000000 0.000000
+0.000000 0.000000
+0.000000 0.000000
+
+ColorRMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorGMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+ColorBMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+AlphaMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+RotationSpeedMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+SizeMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+StretchMast 2
+0.000000 0.000000
+1.000000 0.000000
+
+BRateMast 2
+0.000000 1.000000
+1.000000 1.000000
+
+
